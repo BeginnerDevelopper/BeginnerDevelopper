@@ -8,25 +8,6 @@
 BeginnerDevelopper/BeginnerDevelopper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-+import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JRadioButton;
-import javax.swing.JTextField;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
-
-/*
- * Permitir el ingreso de dos n�meros en controles de tipo JTextField y mediante dos controles de tipo 
-JRadioButton permitir seleccionar si queremos sumarlos o restarlos. Al presionar un bot�n mostrar en un 
-jlabel del JFrame el resultado de la operaci�n
- *
- *
- * 
- * */
 
 
 public class Ejercicio2Swing extends JFrame implements ChangeListener, ActionListener {
